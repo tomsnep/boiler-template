@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpdave\n"
+"POT-Creation-Date: 2016-03-27 15:53+0200\n"
+"PO-Revision-Date: 2016-03-27 15:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions.php:68
+msgid "Header Navigation"
+msgstr "Header Navigatie"
+
+#: functions.php:69
+msgid "Sidebar Navigation"
+msgstr "Sidebar Navigatie"
+
+#: functions.php:70
+msgid "Footer Navigation"
+msgstr "Footer Navigatie"
+
+#. Theme Name of the plugin/theme
+msgid "wpdave"
+msgstr "wpdave"
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wpdave.com"
+msgstr "https://wpdave.com"
+
+#. Description of the plugin/theme
+msgid "HTML5 Boilerplate based starter theme for WordPress."
+msgstr "WordPress thema gebaseerd op HTML5 Boilerplate"
+
+#. Author of the plugin/theme
+msgid "Dave van Hoorn"
+msgstr "Dave van Hoorn"
